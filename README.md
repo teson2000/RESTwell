@@ -6,7 +6,7 @@
 
 [Download spec as PDF](./RESTwell.pdf)
 
-Created by [Tjelvar Eriksson](https://your-website-or-github-here), RESTwell aims to refine REST API design with just enough structure to stay sane at scale, without getting in the way of developer productivity.
+RESTwell aims to refine REST API design with just enough structure to stay sane at scale, without getting in the way of developer productivity. © Tjelvar Eriksson, 2025 — Licensed under CC BY 4.0
 
 ---
 
@@ -25,10 +25,6 @@ Created by [Tjelvar Eriksson](https://your-website-or-github-here), RESTwell aim
 
 This specification is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 You are free to use, remix, and adapt this work — **with proper attribution** to the original author:
-
-**© Tjelvar Eriksson, 2025**
-
----
 
 ## 🚀 Getting Started
 
