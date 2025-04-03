@@ -124,7 +124,7 @@ The easiest form of keys are plain integers but other formats are supported:
 | Key-type | Example |
 | --- | --- |
 | Integer | myapi.com/customers/52 |
-| String/UUID | Must be base64url-encoded and surrounded by tildes ~...~ |
+| String/UUID | Must be base64url-encoded and surrounded by tildes \~...\~ |
 | Composite | A base64url-encoded JSON object, also surrounded by tildes \~...\~ *(See example below)* |
 
 #### Examples
