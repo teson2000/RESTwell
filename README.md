@@ -4,6 +4,8 @@
 
 **RESTwell** is a pragmatic specification for building structured, extensible, and maintainable REST APIs — without the ambiguity of loosely typed query parameters, route spaghetti, or poorly scoped intents.
 
+[Download spec as PDF](./RESTwell.pdf)
+
 Created by [Tjelvar Eriksson](https://your-website-or-github-here), RESTwell aims to refine REST API design with just enough structure to stay sane at scale, without getting in the way of developer productivity.
 
 ---
